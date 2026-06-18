@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1><br>
 <div align=center>
-<img src="https://img.shields.io/badge/Linkedin-placeholder-blue" alt="badge" />
-<img src="https://img.shields.io/badge/Email-placeholder-red" alt="badge" />
-<img src="https://img.shields.io/badge/Twitter-placeholder-darkgreen" alt="badge" />
+<img src="https://img.shields.io/badge/Linkedin-IRG Business-blue" alt="badge" />
+<img src="https://img.shields.io/badge/Email-irg18business@gmail.com-red" alt="badge" />
+<img src="https://img.shields.io/badge/Twitter-irg18business-darkgreen" alt="badge" />
 </div><br>
 <p align="center">I am a Full Stack Software Engineer currently working in a mid size company as both IT personnel and Software Engineer, I do freelance work in my off time for customers wanting a astro.js built showcase websites for further communications refer to my socials.</p><br>
 <div align=center>
@@ -22,8 +22,8 @@
 </div><br>
 <div align="center"><img src="https://placehold.co/600x200" height=200 /></div><br>
 <div align=center>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/youtube/default.svg" height="40" width="40" alt="youtube" /></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/linkedin/default.svg" height="40" width="40" alt="linkedin" /></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/twitter/default.svg" height="40" width="40" alt="twitter" /></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/instagram/default.svg" height="40" width="40" alt="instagram" /></a>
+<a href="https://youtube.com/@irg18business?si=W7lcj1YEmMrgauP_" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/youtube/default.svg" height="40" width="40" alt="youtube" /></a>
+<a href="https://www.linkedin.com/in/irg-business-176667417?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/linkedin/default.svg" height="40" width="40" alt="linkedin" /></a>
+<a href="https://x.com/irg18business" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/twitter/default.svg" height="40" width="40" alt="twitter" /></a>
+<a href="https://www.instagram.com/irg18business?igsh=MWk2MHJ3Z2ozbTB2cw==" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/instagram/default.svg" height="40" width="40" alt="instagram" /></a>
 </div>
