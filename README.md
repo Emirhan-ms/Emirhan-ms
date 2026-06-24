@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="40" alt="php" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40" alt="linux" />
 </div><br>
-<div align="center"><img src="https://placehold.co/600x200" height=200 /></div><br>
+<div align="center"><img src="banner.jpg" height=300 width=300 /></div><br>
 <div align=center>
 <a href="https://youtube.com/@irg18business?si=W7lcj1YEmMrgauP_" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/youtube/default.svg" height="40" width="40" alt="youtube" /></a>
 <a href="https://www.linkedin.com/in/irg-business-176667417?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/linkedin/default.svg" height="40" width="40" alt="linkedin" /></a>
